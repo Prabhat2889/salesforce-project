@@ -1,0 +1,11 @@
+-Expose three rest endpoint 
+-first for authentication
+-second one to get the entity definition
+-third one to get the entity definition for a particular object
+-Before running the project please replace below values with your correct one's, As I am deleting my personal credentials :
+-Constants.usernameParamVal
+-Constants.passwordParamVal
+-Constants.clientIdParamVal
+-Constants.clientSecretParamVal
+-Constants.java resides inside package com.practice.project.salesforce.constant
+-PLease check the generated file in Salesforce-Project with .txt extension
